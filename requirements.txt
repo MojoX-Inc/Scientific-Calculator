@@ -1,0 +1,5 @@
+tk
+sympy
+numpy
+matplotlib
+scipy
