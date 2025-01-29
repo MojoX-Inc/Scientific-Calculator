@@ -34,7 +34,7 @@ A **Graphical User Interface (GUI)** based advanced scientific calculator built 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Muhammad-Noraeii/Scientific-Calculator.git
+   git clone https://github.com/MojoX-Inc/Scientific-Calculator.git
    cd Scientific-Calculator
    ```
 
